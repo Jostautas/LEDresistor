@@ -1,0 +1,1 @@
+This program calculates the value of current limiting resistor needed to safely power an LED (or multiple LED's in parallel) when input voltage, LED operating voltage and LED operating curent are known
