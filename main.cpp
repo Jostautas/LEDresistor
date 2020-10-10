@@ -11,6 +11,6 @@ int main()
     cin >> led_amp;
     cout << "Type in the input voltage" << endl;
     cin >> input_volt;
-    cout << endl << "The value of the resistor should be around " << (input_volt - led_volt) / led_amp << "ohm";
+    cout << endl << "The value of the resistor should be around " << (input_volt - led_volt) / led_amp << "ohm" << endl;
     return 0;
 }
